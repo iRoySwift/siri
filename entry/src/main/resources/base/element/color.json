@@ -1,0 +1,132 @@
+{
+  "color": [
+    {
+      "name": "background",
+      "value": "#F8F8F8"
+    },
+    {
+      "name": "foreground",
+      "value": "#0a0a0a"
+    },
+    {
+      "name": "card",
+      "value": "#ffffff"
+    },
+    {
+      "name": "card_foreground",
+      "value": "#0a0a0a"
+    },
+    {
+      "name": "popover",
+      "value": "#ffffff"
+    },
+    {
+      "name": "popover_foreground",
+      "value": "#0a0a0a"
+    },
+    {
+      "name": "primary",
+      "value": "#dc2626"
+    },
+    {
+      "name": "primary_foreground",
+      "value": "#fef2f2"
+    },
+    {
+      "name": "secondary",
+      "value": "#f5f5f5"
+    },
+    {
+      "name": "secondary_foreground",
+      "value": "#171717"
+    },
+    {
+      "name": "mute",
+      "value": "#f5f5f5"
+    },
+    {
+      "name": "mute_foreground",
+      "value": "#737373"
+    },
+    {
+      "name": "accent",
+      "value": "#f5f5f5"
+    },
+    {
+      "name": "accent_foreground",
+      "value": "#171717"
+    },
+    {
+      "name": "destructive",
+      "value": "#ef4444"
+    },
+    {
+      "name": "destructive_foreground",
+      "value": "#fafafa"
+    },
+    {
+      "name": "border",
+      "value": "#e5e5e5"
+    },
+    {
+      "name": "input",
+      "value": "#e5e5e5"
+    },
+    {
+      "name": "ring",
+      "value": "#dc2626"
+    },
+    {
+      "name": "chart_1",
+      "value": "#e76e50"
+    },
+    {
+      "name": "chart_2",
+      "value": "#2a9d90"
+    },
+    {
+      "name": "chart_3",
+      "value": "#274754"
+    },
+    {
+      "name": "chart_4",
+      "value": "#e9c468"
+    },
+    {
+      "name": "chart_5",
+      "value": "#f4a362"
+    },
+    {
+      "name": "sidebar",
+      "value": "#fcf3f3"
+    },
+    {
+      "name": "sidebar_foreground",
+      "value": "#450a0a"
+    },
+    {
+      "name": "sidebar_primary",
+      "value": "#7f1d1d"
+    },
+    {
+      "name": "sidebar_primary_foreground",
+      "value": "#fcf3f3"
+    },
+    {
+      "name": "sidebar_accent",
+      "value": "#fee2e2"
+    },
+    {
+      "name": "sidebar_accent_foreground",
+      "value": "#7f1d1d"
+    },
+    {
+      "name": "sidebar_border",
+      "value": "#fecaca"
+    },
+    {
+      "name": "sidebar_ring",
+      "value": "#fca5a5"
+    }
+  ]
+}

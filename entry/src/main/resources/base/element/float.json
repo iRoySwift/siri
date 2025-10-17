@@ -1,0 +1,156 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "common_font_8",
+      "value": "8fp"
+    },
+    {
+      "name": "common_font_10",
+      "value": "10fp"
+    },
+    {
+      "name": "common_font_12",
+      "value": "12fp"
+    },
+    {
+      "name": "common_font_14",
+      "value": "14fp"
+    },
+    {
+      "name": "common_font_16",
+      "value": "16fp"
+    },
+    {
+      "name": "common_font_18",
+      "value": "18fp"
+    },
+    {
+      "name": "common_font_20",
+      "value": "20fp"
+    },
+    {
+      "name": "common_font_30",
+      "value": "30fp"
+    },
+    {
+      "name": "common_space_05",
+      "value": "0.5vp"
+    },
+    {
+      "name": "common_space_1",
+      "value": "1vp"
+    },
+    {
+      "name": "common_space_2",
+      "value": "2vp"
+    },
+    {
+      "name": "common_space_4",
+      "value": "4vp"
+    },
+    {
+      "name": "common_space_8",
+      "value": "8vp"
+    },
+    {
+      "name": "common_space_10",
+      "value": "10vp"
+    },
+    {
+      "name": "common_space_12",
+      "value": "12vp"
+    },
+    {
+      "name": "common_space_16",
+      "value": "16vp"
+    },
+    {
+      "name": "common_space_20",
+      "value": "20vp"
+    },
+    {
+      "name": "common_space_24",
+      "value": "24vp"
+    },
+    {
+      "name": "common_space_30",
+      "value": "30vp"
+    },
+    {
+      "name": "common_radius_2",
+      "value": "2vp"
+    },
+    {
+      "name": "common_radius_6",
+      "value": "6vp"
+    },
+    {
+      "name": "common_radius_8",
+      "value": "8vp"
+    },
+    {
+      "name": "common_radius_16",
+      "value": "16vp"
+    },
+    {
+      "name": "common_radius_20",
+      "value": "20vp"
+    },
+    {
+      "name": "common_divider_1",
+      "value": "1vp"
+    },
+    {
+      "name": "common_divider_2",
+      "value": "2vp"
+    },
+    {
+      "name": "common_length_10",
+      "value": "10vp"
+    },
+    {
+      "name": "common_length_14",
+      "value": "14vp"
+    },
+    {
+      "name": "common_length_24",
+      "value": "24vp"
+    },
+    {
+      "name": "common_length_30",
+      "value": "30vp"
+    },
+    {
+      "name": "common_length_40",
+      "value": "40vp"
+    },
+    {
+      "name": "common_length_50",
+      "value": "50vp"
+    },
+    {
+      "name": "common_length_56",
+      "value": "56vp"
+    },
+    {
+      "name": "common_length_80",
+      "value": "80vp"
+    },
+    {
+      "name": "common_length_120",
+      "value": "120vp"
+    },
+    {
+      "name": "common_length_200",
+      "value": "200vp"
+    },
+    {
+      "name": "common_length_600",
+      "value": "600vp"
+    }
+  ]
+}
