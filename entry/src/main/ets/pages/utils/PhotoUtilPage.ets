@@ -62,7 +62,7 @@ struct PhotoUtilPage {
 
   async getPhotoInfo() {
     PhotoUtil.select().then((res)=>{
-      PhotoUtil.getPhotoAsset(res[0])
+      PhotoUtil.getPhotoAsset(res.photoUris[0])
         .then((photoAsset)=>{
           try {
             let name = photoAsset?.get(photoAccessHelper.PhotoKeys.DISPLAY_NAME);
